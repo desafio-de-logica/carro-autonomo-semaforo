@@ -1,0 +1,19 @@
+{
+  "name": "desafio-de-logica",
+  "version": "1.0.0",
+  "description": "tesla x semaforo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/desafio-de-logica"
+  },
+  "keywords": [
+    "desafio",
+    "logica",
+    "algoritmo"
+  ],
+  "author": "@progui",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
